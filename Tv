@@ -1,144 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/NDTVPRIME.png" group-title="No group" tvg-id="" tvg-name="", IN: NDTV PRIME
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/886
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/1250px-MTV_Classic_US.svg.png" group-title="No group" tvg-id="mtvclassic.uk" tvg-name="mtvclassic.uk", UK: MTV Classic
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/104
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png/revision/latest?cb=20111124002006" group-title="No group" tvg-id="mtvbase.uk" tvg-name="mtvbase.uk", UK: MTV BASE
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/100
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", Japan: WOWOW PRIME
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/2856
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", Japan : WOWOW LIVE
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/2855
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", CCTV5+ HD
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/1447
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="No group" tvg-id="" tvg-name="", AZ: SETANTA SPORTS PLUS FHD
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/5478
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="No group" tvg-id="" tvg-name="", AZ: SETANTA SPORTS EURASIA FHD
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/5479
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Eleven_logo.svg/1024px-Eleven_logo.svg.png" group-title="No group" tvg-id="" tvg-name="", SG: Eleven HD
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/5700
-
-#EXTINF:-1 tvg-logo="https://1plus1eleven.com/assets/img/logo.jpg" group-title="No group" tvg-id="" tvg-name="", SG: Eleven Plus 103 HD
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/6514
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/2STV.png/revision/latest?cb=20150308141605" group-title="No group" tvg-id="" tvg-name="", AFQ: 2STV ( Senegal )
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/6804
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Cin%C3%A9%2B_logo_2011.png" group-title="No group" tvg-id="" tvg-name="", AFQ: Cine Plus Africa ( Ghana )
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/6808
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81QUzVAm83L.png" group-title="No group" tvg-id="" tvg-name="", AFQ: Diaspora24 ( Senegal )
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/6807
-
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/SkySportsBoxOffice.uk.png" group-title="No group" tvg-id="" tvg-name="", : Sky Sports Box Office (LIVE DURING BOXING MATCH) UK
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7060
-
-#EXTINF:-1 tvg-logo="http://logovectorseek.com/wp-content/uploads/2019/08/caracol-tv-logo-vector.png" group-title="No group" tvg-id="" tvg-name="", LAT: CARACOL
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7159
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Africa   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7502
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Albania   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7501
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Arab Countries   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7500
-
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/IshtarTV.png" group-title="No group" tvg-id="" tvg-name="", KR: Ishtar TV
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7064
-
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/mtvlivehd.png" group-title="No group" tvg-id="" tvg-name="", OSN: MTV LIVE FHD
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/6977
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Belgium   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7483
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Bulgaria   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7477
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Denmark  <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7485
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="svt1.no" tvg-name="svt1.no", NOR: SVT1
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7504
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/max-norway-logo-23038F2C9A-seeklogo.com.png" group-title="No group" tvg-id="" tvg-name="", NR: MAX Norway
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/5498
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NRK3_logo.svg/1200px-NRK3_logo.svg.png" group-title="No group" tvg-id="" tvg-name="", NR: Nrk 3
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/5500
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   France   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7497
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>      <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7499
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Greece   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7494
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Hungary   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7482
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   India   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7493
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Iran   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7484
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Italy   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7492
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Netherlands   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7491
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Pakistan   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7480
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Portugal   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7490
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Russian   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7489
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Thai-Lan   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7478
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   Turkey   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7488
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", =======>   United Kingdom   <=======
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7496
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="No group" tvg-id="" tvg-name="", EX_YU: ATV
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/10177
-
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/planet-wispelutri.png" group-title="No group" tvg-id="" tvg-name="", TR: PLANET MUTFAK
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/18950
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", TR: Salon 3 HD
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/18948
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/79/Sony_Channel_2019_black_and_white_logo.svg/revision/latest/top-crop/width/300/height/300?cb=20191102025455" group-title="No group" tvg-id="" tvg-name="", TR: SONY CHANNEL
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/18949
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VN: Thai Nguyen 2
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/26875
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", ES: ARAGON TV
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/31500
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", ========Uk- movies=========
-http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/40097
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1280px-Starz_Edge_logo.svg.png" group-title="US - Entertainment" tvg-id="starzedge.us" tvg-name="starzedge.us", US: Starz Edge
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/110411
@@ -155,7 +15,7 @@ http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/1095
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png" group-title="US - Entertainment" tvg-id="hallmark.us" tvg-name="hallmark.us", US: HALLMARK
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/1098
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-1IY_iOlCZbw/VC23jz26xGI/AAAAAAAAAaU/Y45q4xfVtM0/s1600/HMM_logo_Gold.png" group-title="US - Entertainment" tvg-id="H2 BR" tvg-name="H2 BR", US: H2
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-1IY_iOlCZbw/VC23jz26xGI/AAAAAAAAAaU/Y45q4xfVtM0/s1600/HMM_logo_Gold.png" group-title="US - Entertainment" tvg-id="h2.us" tvg-name="H2 BR", US: H2
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/1099
 
 #EXTINF:-1 tvg-logo="https://tvpc.us/tvpc_members/uploads/1_6267598_d4SLn.jpg" group-title="US - Entertainment" tvg-id="fx.us" tvg-name="fx.us", US: FX HD
@@ -179,7 +39,8 @@ http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/1103
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="US - Entertainment" tvg-id="tbs.us" tvg-name="tbs.us", US: TBS HD
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/138
 
-#EXTINF:-1 tvg-logo="https://hd-report.com/wp-content/uploads/2012/08/Cinemax-2011-logo.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: CINEMAX ACTION HD
+#EXTINF:-1 tvg-logo="https://hd-report.com/wp-content/uploads/2012/08/Cinemax-2011-logo.png" group-title="US - Entertainment" tvg-id="CinemÄx.us	
+" tvg-name="CinemÄx.us	", US: CINEMAX ACTION HD
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/4010
 
 #EXTINF:-1 tvg-logo="http://getdrawings.com/vectors/planet-logo-vector-3.png" group-title="US - Entertainment" tvg-id="animalplanet.us" tvg-name="animalplanet.us", US: ANIMAL PLANET HD
@@ -188,7 +49,7 @@ http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/132
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" group-title="US - Entertainment" tvg-id="cinemax.east.us" tvg-name="cinemax.east.us", US: Cinemax East HD
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/5795
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1987667.jpg" group-title="US - Entertainment" tvg-id="" tvg-name="", US: Cinemax MoreMax
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1987667.jpg" group-title="US - Entertainment" tvg-id="CinemaxEast.us" tvg-name="CinemaxEast.us", US: Cinemax MoreMax
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/5796
 
 #EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/HGTV.png" group-title="US - Entertainment" tvg-id="hgtv.us" tvg-name="hgtv.us", US: HGTV HD
@@ -200,7 +61,7 @@ http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/5757
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/1200px-NBC_Peacock_1986.svg.png" group-title="US - Entertainment" tvg-id="NBC US" tvg-name="NBC US", US: NBC
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/6621
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/1200px-ION_Television_2016.svg.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: ION Television East HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/1200px-ION_Television_2016.svg.png" group-title="US - Entertainment" tvg-id="IONTelevision.us" tvg-name="IONTelevision.us", US: ION Television East HD
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7257
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="US - Entertainment" tvg-id="lifetimemovies.us" tvg-name="lifetimemovies.us", US: Lifetime Movie Network HD
@@ -245,7 +106,7 @@ http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/136
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="US - Entertainment" tvg-id="starzencore.us" tvg-name="starzencore.us", US: Starz Encore
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/3487
 
-#EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_bk_rgb.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: Starz Etas
+#EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_bk_rgb.png" group-title="US - Entertainment" tvg-id="StarzCinemaHD.us" tvg-name="StarzCinemaHD.us", US: Starz Etas
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/3488
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/1280px-Starz_Comedy_logo.svg.png" group-title="US - Entertainment" tvg-id="starzcomedy.us" tvg-name="starzcomedy.us", US: Starz Comedy
@@ -290,7 +151,7 @@ http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7775
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2016_Discovery_logo.svg/600px-2016_Discovery_logo.svg.png" group-title="US - Entertainment" tvg-id="discoverychannel.us" tvg-name="discoverychannel.us", US: Discovery Channel
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7917
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: OWN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="US - Entertainment" tvg-id="OWNHD.us" tvg-name="OWNHD.us", US: OWN HD
 http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/8091
 
 #EXTINF:-1 tvg-logo="https://scottlindenoutdoors.files.wordpress.com/2011/04/destination-america-logo1.png" group-title="US - Entertainment" tvg-id="destinationamerica.us" tvg-name="destinationamerica.us", US: DESTINATION AMERICA
