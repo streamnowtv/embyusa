@@ -527,7 +527,7 @@ http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/16088
 #EXTINF:-1 tvg-logo="(null)" group-title="Latin America" tvg-id="" tvg-name="Goldenplus.mx", Claro:GOLDEN PLUS
 (null)
 
-#EXTINF:-1 tvg-logo="(null)" group-title="Latin America" tvg-id="" tvg-name="Telemundo.us", Claro:TELEMUNDO
+#EXTINF:-1 tvg-logo="(null)" group-title="Latin America" tvg-id="Telemundo.us" tvg-name="Telemundo", Claro:TELEMUNDO
 (http://bestbuyiptv.tv:8080/Cruzalbert20141-restream/yadira30/7741)
 
 #EXTINF:-1 tvg-logo="(null)" group-title="Latin America" tvg-id="" tvg-name="", LATINO: HCH TV
