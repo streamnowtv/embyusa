@@ -1,6 +1,6 @@
 #EXTM3U
+#EXTINF:25,00s Replay
 TVOne.us,US: TV One FHD,https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="US:   " tvg-logo=":
 #EXTINF:-1 tvg-ID="" tvg-name="US:   " tvg-logo=":
 #EXTINF:-1 tvg-ID="" tvg-name="US:   " tvg-logo=":
@@ -84,21 +84,6 @@ TVOne.us,US: TV One FHD,https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="US:   " tvg-logo=":
 #EXTINF:-1 tvg-ID="" tvg-name="US:   " tvg-logo=":
 #EXTINF:-1 tvg-ID="" tvg-name="US:   " tvg-logo=":
-
-
-http://bestbuyiptv.tv:8080/testjacktova1-restream/HLc2x1ag/3484
-#EXTINF:-1 tvg-ID="aande.us" tvg-name="US: A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="US - Entertainment",US: A&E HD
-http://bestbuyiptv.tv:8080/testjacktova1-restream/HLc2x1ag/50
-#EXTINF:-1 tvg-ID="ABC HD US" tvg-name="US: ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/ABC_HD_logo.png" group-title="US - Entertainment",US: ABC HD
-http://bestbuyiptv.tv:8080/testjacktova1-restream/HLc2x1ag/136
-#EXTINF:-1 tvg-ID="abc.news.live.us" tvg-name="US: ABC NEWS HD" tvg-logo="" group-title="US - News",US: ABC NEWS HD
-http://bestbuyiptv.tv:8080/testjacktova1-restream/HLc2x1ag/135
-#EXTINF:-1 tvg-ID="amc.us" tvg-name="US: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="US - Entertainment",US: AMC HD
-http://bestbuyiptv.tv:8080/testjacktova1-restream/HLc2x1ag/179
-#EXTINF:-1 tvg-ID="americanheroeschannel.us" tvg-name="US: AMERICAN HEROES CHANNEL" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/10/american-heroes-channel.jpg" group-title="US - News",US: AMERICAN HEROES
-
-#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" status="online",Investiga (1080p)
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=AQzzBGQEoEbN0ARy5LNIgtRuE9pUYEsGsrwgfjDHOxVfAyPxoiqP4w1k3nfuCxC_riYRgOOv13lYlmbZjtn3u4L7w3lfFHvLWUVtlYNNFM7JL1qD85wBMm8y5XBS090qN_nUWHtaKQ80uEgXSriBWQAfDMLxI1-fHZMVELWg7QCZAbjGZVFmA-UYjVSEQX270k54aUQPKEpXdEzJcM1B0N4ud0VzI6u-kd9T6QtuMJO-iMrenML6hRmuDI8S2cmJWsMRVv4oNhoxJCLLPp5MmTdizQbbfcf0r2OR_8KT9vPz_nQeZ1gFNZM9sojRM5jkQlZL7l3iptbZKdwCpEVrman7rYSHNFNBlOvU9tr0CUTnNAw-QXZwn-rSxQUmu3KIm4QDuSKkQ3riMdRSNCIIfShA6JYuVJu-Ho9D_pp_llPlH4bnodrIl05-OsMp192fXbMBUmHf8pA_PQbwCxnEJT1s8e-aJeKHmfv5mbxbUZi_CcDgIs9I68ENKCBFKgOcWoy4DbejpRkUuvRGpLThi8a0O6npc0Uob_IkN_bIwjrcVQlSV1ZTGrCOhmjSpJSEXcUMz4XwIiSRcpsR5347AfeUO0TdF21uFln5qEMnTZwNIfkQkEDQOUinpmZ1QYutAEV-eq4muJw1ftNxINjDeuRdH41L_l5Cv-LrJBR0npisugVRYozIxRSvzlrEgYJyldrbFAXhbOxZCKAbGiJ4CfxfUJGOiZb8qA6iJlDTQVcOxTdWoq-j8frWJL36HPbRLDasnHzTGludZ-126FgXH3qKnmc8I845e3hWD7-FCWVCWbprK18s-4zBD3pmylO5K7lx4WC0DCpKSxcyD7jW4tF2224xfCptIB866pnJIuE0jurH1j97grw3AvPQG_Jww9FxUURyOK7-2qKlCPD4rzTaB3cSWLJirsMDq19Us7TSGOr66VO-V5fwUjK9gctECB2-LzIMLaO8EjkxKEdgsJpM5GhN3zgNeczPVb7ceH63bRqQCg2_In6L3HA.&includeExtendedEvents=&architecture=&deviceId=b0bd28e3-d281-4482-a273-cd9476709803&deviceVersion=104.0.0&appVersion=6.4.1-e1db5348259c97a434c6082c13e731effe994d26&deviceType=web&deviceMake=chrome&sid=95029e58-2f1b-11ed-b6ae-0242ac110003&advertisingId=&deviceLat=40.5885&deviceLon=-75.4642&deviceDNT=0&deviceModel=web&userId=5d5e3ccdf9b54d6c29154cf7&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImJlOTg5Y2Y4LThhNTMtNGMzZS1iYzA4LWU3NjZiYTQ3YjFjNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5NTAyOWU1OC0yZjFiLTExZWQtYjZhZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjY1Ljc4LjEwMC43NyIsImNpdHkiOiJBbGxlbnRvd24iLCJwb3N0YWxDb2RlIjoiMTgxMDMiLCJjb3VudHJ5IjoiVVMiLCJkbWEiOjUwNCwiYWN0aXZlUmVnaW9uIjoiVVMiLCJkZXZpY2VMYXQiOjQwLjU4ODUsImRldmljZUxvbiI6LTc1LjQ2NDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwNC4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuNC4xLWUxZGI1MzQ4MjU5Yzk3YTQzNGM2MDgyYzEzZTczMWVmZmU5OTRkMjYiLCJjbGllbnRJRCI6ImIwYmQyOGUzLWQyODEtNDQ4Mi1hMjczLWNkOTQ3NjcwOTgwMyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiNWQ1ZTNjY2RmOWI1NGQ2YzI5MTU0Y2Y3IiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL05ld19Zb3JrIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIzIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjYyNjMxOTA0LCJqdGkiOiI1MzgwM2YxMi00YzY1LTQyM2UtYWNjMy1kNDhiNTg4ZWRjOTMiLCJpYXQiOjE2NjI2MDMxMDQsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86dXNlcnMtdjE6VVM6WWpCaVpESTRaVE10WkRJNE1TMDBORGd5TFdFeU56TXRZMlE1TkRjMk56QTVPREF6OjVkNWUzY2NkZjliNTRkNmMyOTE1NGNmNyJ9.gcx5WGEU6laqp0-l7x9c8HKkotiE4EWD8Vrbb_eRH-o
 
 #EXTINF:-1 tvg-id="" status="online", (1080p)
 
